@@ -1,4 +1,6 @@
-# Compose Emotion Styled
+# Compose Emotion Styled (Alpha)
+
+__Not ready for production use__
 
 Compose multiple Emotion styled components together declaratively using a React Component.
 
