@@ -19,7 +19,7 @@ const Danger = styled('div')`
 
 export function MyComponent() {
   return (
-    <ComposeStyled components=[Flex, Danger]>
+    <ComposeStyled components={[Flex, Danger]}>
       <p>Hey!</p>
     </ComposeStyled>
   )
